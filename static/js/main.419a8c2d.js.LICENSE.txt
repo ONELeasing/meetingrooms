@@ -4,7 +4,29 @@
 	http://jedwatson.github.io/classnames
 */
 
+/*!
+         * The buffer module from node.js, for the browser.
+         *
+         * @author   Feross Aboukhadijeh <feross@feross.org> <http://feross.org>
+         * @license  MIT
+         */
+
+/*!
+         * The buffer module from node.js, for the browser.
+         *
+         * @author   Feross Aboukhadijeh <https://feross.org>
+         * @license  MIT
+         */
+
+/*! http://mths.be/fromcodepoint v0.1.0 by @mathias */
+
+/*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
+
+/*! pdfmake v0.2.7, @license MIT, @link http://pdfmake.org */
+
 /*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/babel/babel/blob/main/packages/babel-helpers/LICENSE */
+
+/*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
 
 /**
  * @license React
@@ -86,6 +108,20 @@
  *
  * @license MIT
  */
+
+/** @preserve
+           * Counter block mode compatible with  Dr Brian Gladman fileenc.c
+           * derived from CryptoJS.mode.CTR
+           * Jan Hruby jhruby.web@gmail.com
+           */
+
+/** @preserve
+          (c) 2012 by Cédric Mesnil. All rights reserved.
+          	Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+          	    - Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+              - Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+          	THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+          */
 
 /**![arrow-left](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTAiIGhlaWdodD0iNTAiIGZpbGw9IiNjYWNhY2EiIHZpZXdCb3g9IjY0IDY0IDg5NiA4OTYiIGZvY3VzYWJsZT0iZmFsc2UiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTg3MiA0NzRIMjg2LjlsMzUwLjItMzA0YzUuNi00LjkgMi4yLTE0LTUuMi0xNGgtODguNWMtMy45IDAtNy42IDEuNC0xMC41IDMuOUwxNTUgNDg3LjhhMzEuOTYgMzEuOTYgMCAwMDAgNDguM0w1MzUuMSA4NjZjMS41IDEuMyAzLjMgMiA1LjIgMmg5MS41YzcuNCAwIDEwLjgtOS4yIDUuMi0xNEwyODYuOSA1NTBIODcyYzQuNCAwIDgtMy42IDgtOHYtNjBjMC00LjQtMy42LTgtOC04eiIgLz48L3N2Zz4=) */
 
