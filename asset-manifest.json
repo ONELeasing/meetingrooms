@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/meetingrooms/static/css/main.f75637b7.css",
-    "main.js": "/meetingrooms/static/js/main.3eb0cae1.js",
+    "main.js": "/meetingrooms/static/js/main.eb1e3d7b.js",
     "static/media/QRTENX.png": "/meetingrooms/static/media/QRTENX.a34f19fd02e2da8867be.png",
     "index.html": "/meetingrooms/index.html",
     "main.f75637b7.css.map": "/meetingrooms/static/css/main.f75637b7.css.map",
-    "main.3eb0cae1.js.map": "/meetingrooms/static/js/main.3eb0cae1.js.map"
+    "main.eb1e3d7b.js.map": "/meetingrooms/static/js/main.eb1e3d7b.js.map"
   },
   "entrypoints": [
     "static/css/main.f75637b7.css",
-    "static/js/main.3eb0cae1.js"
+    "static/js/main.eb1e3d7b.js"
   ]
 }
